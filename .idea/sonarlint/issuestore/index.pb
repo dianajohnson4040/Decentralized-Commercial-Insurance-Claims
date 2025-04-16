@@ -1,3 +1,7 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+R
+"contracts/adjuster-assignment.clar,7/7/773f182c30747d90139eed43d76ad596497a4aae
+Q
+!tests/adjuster-assignment.test.ts,b/9/b9cf857defb2025f382eb7ef191c7d0985b20bcd
