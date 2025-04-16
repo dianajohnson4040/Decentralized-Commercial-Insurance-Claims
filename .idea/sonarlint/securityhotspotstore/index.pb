@@ -9,3 +9,5 @@ U
 %contracts/incident-documentation.clar,8/9/89d5753cd1feb7e725bf27c6fb7b6180ebf8fa89
 R
 "contracts/policy-verification.clar,0/9/090b11a8f359cdbd4153b370899bd99e7dc49174
+I
+contracts/settlement.clar,5/d/5dfc94e4b5c277d99517176e1947f90e0fab3471
